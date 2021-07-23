@@ -22,6 +22,8 @@ Screenshot 2 Column chart showing percentage of message by category
 ![image](https://user-images.githubusercontent.com/82412512/126830641-2e146154-7e33-4a3e-9676-975c082f9a4c.png)
 Screenshot 3 Use the app to classify the message in real time
 ![image](https://user-images.githubusercontent.com/82412512/126829371-f5b44093-6856-4cb2-b97a-6aba5acbce73.png)
+## Warnings
+This dataset is imbalanced (ie some labels like water have few examples), therefore, accuracy is not a reliable measure to assess the model. Precision and recall provide more information and are more appropriate in this study.
 
 ## Licensing, Authors, Acknowledgements
 This app was completed as part of the Udacity Data Scientist Nanodegree.
